@@ -12,7 +12,6 @@ Type Conversion: https://javascript.info/type-conversions
 Basic Operators: https://javascript.info/operators
 Comparisions: https://javascript.info/comparison
 Logical Operators: https://javascript.info/logical-operators
-
 Nulish operators: https://javascript.info/nullish-coalescing-operator 
 
 
